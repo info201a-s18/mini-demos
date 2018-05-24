@@ -1,4 +1,4 @@
-#Resources
+# Resources
 
 [Definition and sample sentences](https://en.wikipedia.org/wiki/Sentiment_analysis)
 

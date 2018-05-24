@@ -11,7 +11,7 @@ model <- application_inception_v3(weights = "imagenet")
 
 # Load in image from `imgs` directory. Images include that of an elephant, mouse, apples and oranges
 # Feel free to add your own images to the directory to test the model
-img_path <- "./imgs/oranges.jpg"
+img_path <- "./imgs/elephant.jpg"
 img <- image_load(img_path, target_size = c(299, 299))
 
 # Convert img to an array for tensor calculations
